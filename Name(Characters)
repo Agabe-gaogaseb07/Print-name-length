@@ -1,0 +1,6 @@
+# Ask's for the users name.
+name = input("Enter your name?: ")
+
+# Here Python count the characters automatically and then prints the characters in a digit form. 
+length = len(name)
+print(length)
